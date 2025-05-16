@@ -2,7 +2,7 @@
 
 ## How to run Frontend
 
-Starting in root directory:
+Starting in root directory:  
 $ cd frontend  
 $ npm i  
 $ npm run dev  
